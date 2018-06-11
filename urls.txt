@@ -12,3 +12,6 @@ FB Memcache router: https://code.facebook.com/posts/296442737213493/introducing-
 Robinhood hashing: http://codecapsule.com/2013/11/11/robin-hood-hashing/
 Hopscotch hashing: http://codecapsule.com/2013/08/11/hopscotch-hashing/
 Implement a KVS: http://codecapsule.com/2014/05/07/implementing-a-key-value-store-part-6-open-addressing-hash-tables/
+
+Facebook prestodb:
+https://www.facebook.com/notes/facebook-engineering/presto-interacting-with-petabytes-of-data-at-facebook/10151786197628920

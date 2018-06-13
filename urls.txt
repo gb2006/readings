@@ -1,17 +1,34 @@
-LinkedIn Espresso: http://www.cs.cmu.edu/~pavlo/courses/fall2013/static/papers/p1135-qiao.pdf
 
-Project Voldemort: http://www.project-voldemort.com/voldemort/design.html
-Project Voldemort (paper): https://www.usenix.org/legacy/events/fast12/tech/full_papers/Sumbaly.pdf
+Cockroachdb architecture:
+https://github.com/cockroachdb/cockroach/blob/master/docs/design.md
 
-Cassandra commit log: https://wiki.apache.org/cassandra/ArchitectureCommitLog
+LinkedIn Espresso: 
+http://www.cs.cmu.edu/~pavlo/courses/fall2013/static/papers/p1135-qiao.pdf
 
-Memcache at FB: https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf
-FB Memcache router: https://code.facebook.com/posts/296442737213493/introducing-mcrouter-a-memcached-protocol-router-for-scaling-memcached-deployments/
+Project Voldemort:
+http://www.project-voldemort.com/voldemort/design.html
 
+Project Voldemort (paper): 
+https://www.usenix.org/legacy/events/fast12/tech/full_papers/Sumbaly.pdf
 
-Robinhood hashing: http://codecapsule.com/2013/11/11/robin-hood-hashing/
-Hopscotch hashing: http://codecapsule.com/2013/08/11/hopscotch-hashing/
-Implement a KVS: http://codecapsule.com/2014/05/07/implementing-a-key-value-store-part-6-open-addressing-hash-tables/
+Cassandra commit log: 
+https://wiki.apache.org/cassandra/ArchitectureCommitLog
+
+Memcache at FB: 
+https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf
+
+FB Memcache router: 
+https://code.facebook.com/posts/296442737213493/introducing-mcrouter-a-memcached-protocol-router-for-scaling-memcached-deployments/
 
 Facebook prestodb:
 https://www.facebook.com/notes/facebook-engineering/presto-interacting-with-petabytes-of-data-at-facebook/10151786197628920
+
+Robinhood hashing: 
+http://codecapsule.com/2013/11/11/robin-hood-hashing/
+
+Hopscotch hashing: 
+http://codecapsule.com/2013/08/11/hopscotch-hashing/
+
+Implement a KVS: 
+http://codecapsule.com/2014/05/07/implementing-a-key-value-store-part-6-open-addressing-hash-tables/
+
